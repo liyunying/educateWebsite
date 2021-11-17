@@ -2,13 +2,13 @@
 
 ## Getting Started
 
-Install dependencies,
+安装依赖,
 
 ```bash
 $ yarn
 ```
 
-Start the dev server,
+启动项目,
 
 ```bash
 $ yarn start
